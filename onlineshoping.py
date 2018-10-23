@@ -8,7 +8,7 @@ while 1:
      msgbox("online shopping!")
      msg ="which website do you want to use?"
      title = "online shopping websites"
-     choices = ["amazon", "flipcart", "snap deal", "mynntra"]
+     choices = ["amazon", "flipcart", "snap deal"]
      choice = choicebox(msg, title, choices)
      msgbox("You chose: " + str(choice), "website chosen")
     # note that we convert choice to string, in case
