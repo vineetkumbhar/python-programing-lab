@@ -1,3 +1,7 @@
+#vineet kumbhar
+#roll no :-32
+# GR NO:- 11811198
+
 x=int(input("enter any number"))
 s=0
 z=x
