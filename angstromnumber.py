@@ -1,6 +1,7 @@
 #vineet kumbhar
 #roll no :-32
 # GR NO:- 11811198
+#division:- M
 
 x=int(input("enter any number"))
 s=0
