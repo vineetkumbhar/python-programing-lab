@@ -1,3 +1,9 @@
+#vineet kumbhar
+#roll no :-32
+# GR NO:- 11811198
+#division :- M
+#INCOMPLETE
+
 name1=input("enter 1st student name")
 name2=input("enter 2nd student name")
 name3=input("enter 3rd student name")
@@ -16,3 +22,4 @@ maths3=input("maeks of 3rd student in maths")
 student1==[name1  , 'english',english1,'science',science1,'maths'maths1]
 student2=[name2  , 'english',english1,'science',science1,'maths'maths1]
 student3=[name3  , 'english',english1,'science',science1,'maths'maths1]
+#INCOMPLETE
