@@ -1,3 +1,9 @@
+#vineet kumbhar
+#roll no :-32
+# GR NO:- 11811198
+#division :- M
+
+
 n=input("enter a number")
 a=0
 b=1
