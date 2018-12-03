@@ -1,7 +1,7 @@
 #Tempurature
-#Name-Kanav Gupta
+#Name-vineet kumbhar
 #Division-M
-#Roll no-25
+#Roll no-32
 temp=int(input("Enter temperature:")) #input from user
 dec=input("if value is in celius say 'y' or else say 'n'")
 if 'y'==dec: #if-else statement
