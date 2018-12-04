@@ -1,7 +1,7 @@
 #Marks of students
-#Name-Kanav Gupta
+#Name-vineet kumbhar
 #Division-M
-#Roll no.-25
+#Roll no.-32
 n1=input("enter 1st student name")
 n2=input("enter 2nd student name")
 n3=input("enter 3rd student name")
